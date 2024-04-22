@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hey there! I'm currently an undergraduate student at the University of Alberta, pursuing a Bachelor of Science with Honors in Mathematical Physics. Here's what I've been up to:
+**Hey there!** I'm currently an undergraduate student at the University of Alberta, pursuing a Bachelor of Science with Honors in Mathematical Physics. Here's what I've been up to:
 
 **Personal Projects**
 - **vectorcalc** (Python Package)
