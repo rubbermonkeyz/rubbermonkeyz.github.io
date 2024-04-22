@@ -1,6 +1,6 @@
 title: Kenny Moc
 logo: /assets/img/portrait.jpg
-description: Late-night coffee in Paris at the La Rotonde
-show_downloads: true
+description: Late-night coffee in Paris
+show_downloads: false
 google_analytics: G-Z4R7ZFZFCJ
 theme: jekyll-theme-minimal
