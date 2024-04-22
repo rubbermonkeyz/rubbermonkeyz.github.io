@@ -11,7 +11,7 @@ layout: default
 
 - **Too Many Questions** (Blog)
   - I run a blog where I discuss math, computer science, data science, and physics.
-  - Dive in at [toomanyquestions.ca](toomanyquestions.ca).
+  - Dive in at [toomanyquestions.ca](https://www.toomanyquestions.ca/).
 
 **Get in Touch**
 - Drop me a line anytime at whatis@kennymoc.xyz!
